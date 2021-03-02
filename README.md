@@ -7,6 +7,7 @@ Usage
 
 Enter the following in terminal
 
+################################################################
 
 
 $ git clone https://github.com/BrodyKretz/Quantum-Encryption.git
@@ -18,18 +19,15 @@ $ cd Quantum-Encryption
 $ python3 main.py
 
 
+################################################################
 
 
-it will ask for a file
-
-enter file name
+it will ask for a file, enter file name.
 
 Example: people.txt
 
 
-click enter
-
-the type e to encrypt the file with a key that the code will randomly generate fro you.
+click enter the type e to encrypt the file with a key that the code will randomly generate fro you.
 once you click enter again the file will we encrypted and a key will be saved in a file titled --->. mykey.key
 
 if you want to decrypt the file re type the file name then type d
