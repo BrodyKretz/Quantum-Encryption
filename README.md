@@ -5,15 +5,14 @@
 
 Usage
 
-Enter 
-$git clone 
+Enter the following in terminal
+$ git clone https://github.com/BrodyKretz/Quantum-Encryption.git
 $ pip3 install cryptography
+$ cd Quantum-Encryption
+$ python3 main.py
 
-in terminal
 
-Load code in a python compiler
 
-run code
 
 it will ask for a file
 
