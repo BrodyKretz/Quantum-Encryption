@@ -5,6 +5,11 @@
 
 Usage
 
+Enter 
+$git clone 
+$ pip3 install cryptography
+
+in terminal
 
 Load code in a python compiler
 
