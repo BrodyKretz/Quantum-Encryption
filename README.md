@@ -1,3 +1,4 @@
+
 # Quantum-Encryption
 
 
@@ -23,6 +24,8 @@ $ python3 main.py
 
 
 it will ask for a file, enter file name.
+
+<img width="566" alt="Screen Shot 2021-03-02 at 3 23 36 PM" src="https://user-images.githubusercontent.com/43651169/109723683-abdc7100-7b6b-11eb-9a59-194e151faac6.png">
 
 Example: people.txt
 
