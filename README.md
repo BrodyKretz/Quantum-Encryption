@@ -6,9 +6,15 @@
 Usage
 
 Enter the following in terminal
+
+
+
 $ git clone https://github.com/BrodyKretz/Quantum-Encryption.git
+
 $ pip3 install cryptography
+
 $ cd Quantum-Encryption
+
 $ python3 main.py
 
 
