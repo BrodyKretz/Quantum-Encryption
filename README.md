@@ -50,4 +50,4 @@ stored with that previouys key it will be lost forever, unless you breka the key
 
 ####PLEASE READ#####
 
-If you found this helpful please leave star. It helps me know if im am doing things correctly, if there is an issue report it. This would all greatly help me.
+If you found this helpful please leave a star. It helps me know if im am doing things correctly;and if there is an issue report it. This would all greatly help me.
