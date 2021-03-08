@@ -51,3 +51,12 @@ stored with that previouys key it will be lost forever, unless you breka the key
 ####PLEASE READ#####
 
 If you found this helpful please leave a star. It helps me know if im am doing things correctly;and if there is an issue report it. This would all greatly help me.
+
+
+
+## Support 
+Wallet:
+
+1MMetDFhkmAANyfCh2SdJbj8GDTrjKLYXD
+
+<img width="162" alt="Screen Shot 2021-03-08 at 3 48 47 PM" src="https://user-images.githubusercontent.com/43651169/110392189-c8722080-8025-11eb-8c89-7e86db05addb.png">
