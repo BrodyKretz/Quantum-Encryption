@@ -11,7 +11,7 @@ Enter the following in terminal
 ################################################################
 
 
-$ git clone https://github.com/BrodyKretz/Quantum-Encryption.git
+$ git clone https://github.com/TheComputerDon/KeyLogger.git
 
 $ pip3 install cryptography
 
