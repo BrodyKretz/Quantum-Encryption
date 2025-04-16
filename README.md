@@ -1,5 +1,5 @@
-
-# Quantum-Encryption
+This is a Program that will encrypt and decrypt files. Usage could permantly destroy file.
+# BrodyFileBasedEncryption
 
 
 
